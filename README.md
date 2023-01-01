@@ -1,1 +1,2 @@
-# titanic
+# kaggle titanicコンペ
+pythonではじめるKaggleスタートブックのサンプルコードを写経しながら一連の手順を学ぶ。
